@@ -1,0 +1,462 @@
+
+Results and settings on the simulations (Age):
+
+
+Sim1:
+
+hdl1(1024)
+hdl2(1024)
+hdl3(1024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.726643598615917
+Accuracy (last best prediction): 0.7305190311418686
+
+Sim2:
+
+hdl1(2024)
+hdl2(2024)
+hdl3(1024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7255363321799307
+Accuracy (last best prediction): 0.7281660899653979
+
+Sim3:
+
+hdl1(2024)
+hdl2(2024)
+hdl3(1024)
+lr = 0.0005
+l2(0.01)
+opt = RMSprop
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.715432525951557
+Accuracy (last best prediction): 0.7229065743944637
+
+Sim4:
+
+hdl1(2024)
+hdl2(2024)
+hdl3(1024)
+lr = 0.0005
+l2(0.01)
+opt = SGD
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.4024913494809689
+Accuracy (last best prediction): 0.4711418685121107
+
+Sim5:
+
+hdl1(2024)
+hdl2(2024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7288581314878892
+Accuracy (last best prediction): 0.728719723183391
+
+Sim6:
+
+hdl1(4024)
+hdl2(2024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7284429065743945
+Accuracy (last best prediction): 0.7312110726643598
+
+Sim7:
+
+hdl1(1024)
+hdl2(1024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7187543252595155
+Accuracy (last best prediction): 0.733840830449827
+
+Sim8: (3)
+
+hdl1(1024)
+hdl2(1024)
+lr = 0.001
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7342560553633218
+Accuracy (last best prediction): 0.733840830449827
+
+Sim9:
+
+hdl1(512)
+hdl2(1024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7217993079584775
+Accuracy (last best prediction): 0.7324567474048443
+
+Sim10:
+
+hdl1(256)
+hdl2(1024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7330103806228374
+Accuracy (last best prediction): 0.7337024221453288
+
+Sim11: (1)
+
+hdl1(1024)
+hdl2(1024)
+hdl3(2024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7245674740484429
+Accuracy (last best prediction): 0.7381314878892734
+
+Sim12:
+
+hdl1(1024)
+hdl2(4024)
+hdl3(1024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7227681660899654
+Accuracy (last best prediction): 0.725121107266436
+
+Sim13:
+
+hdl1(1024)
+hdl2(2024)
+hdl3(2024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.721522491349481
+Accuracy (last best prediction): 0.7325951557093425
+
+Sim14:
+
+hdl1(1024)
+hdl2(2024)
+hdl3(2024)
+lr = 0.0005
+l2(0.1)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7118339100346021
+Accuracy (last best prediction): 0.7188927335640138
+
+Sim15:
+
+hdl1(1024)
+hdl2(2024)
+hdl3(2024)
+lr = 0.0005
+l2(0.001)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.720553633217993
+Accuracy (last best prediction): 0.7242906574394463
+
+Sim16:
+
+hdl1(1024)
+hdl2(2024)
+hdl3(1024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7242906574394463
+Accuracy (last best prediction): 0.7253979238754326
+
+Sim17:
+
+hdl1(1024)
+hdl2(1024)
+hdl3(2024)
+lr = 0.0001
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7058823529411765
+Accuracy (last best prediction): 0.7098961937716263
+
+Sim18:
+
+hdl1(1024)
+hdl2(1024)
+hdl3(4024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7234602076124568
+Accuracy (last best prediction): 0.7278892733564014
+
+Sim19: (2)
+
+hdl1(1024)
+hdl2(1024)
+hdl3(3024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7253979238754326
+Accuracy (last best prediction): 0.7348096885813149
+
+Sim20:
+
+hdl1(1024)
+hdl2(1024)
+hdl3(1524)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7249826989619377
+Accuracy (last best prediction): 0.7284429065743945
+
+Sim21:
+
+hdl1(1024)
+hdl2(1024)
+hdl3(2024)
+lr = 0.001
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7195847750865052
+Accuracy (last best prediction): 0.7320415224913495
+
+Sim22:
+
+hdl1(1024)
+hdl2(1224)
+hdl3(2024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7155709342560553
+Accuracy (last best prediction): 0.7303806228373703
+
+Sim23:
+
+hdl1(1024)
+hdl2(1024)
+hdl3(2024)
+lr = 0.0007
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.733840830449827
+Accuracy (last best prediction): 0.733840830449827
+
+Sim24:
+
+hdl1(1024)
+hdl2(1024)
+hdl3(2024)
+lr = 0.0003
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7259515570934256
+Accuracy (last best prediction): 0.7312110726643598
+
+Sim25:
+
+hdl1(1024)
+hdl2(1024)
+hdl3(2024)
+lr = 0.0005
+l2(0.01)
+opt = Nadam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7213840830449827
+Accuracy (last best prediction): 0.7175086505190311
+
+Sim26:
+
+hdl1(2024)
+hdl2(1024)
+hdl3(1024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7188927335640138
+Accuracy (last best prediction): 0.7194463667820069
+
+Sim27:
+
+hdl1(1024)
+hdl2(1024)
+hdl3(1524)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7253979238754326
+Accuracy (last best prediction): 0.7253979238754326
+
+Sim28:
+
+hdl1(1024)
+hdl2(1024)
+hdl3(2524)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7175086505190311
+Accuracy (last best prediction): 0.7191695501730104
+
+Sim29:
+
+hdl1(1024)
+hdl2(1024)
+hdl3(2024)
+lr = 0.0006
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7313494809688581
+Accuracy (last best prediction): 0.731764705882353
+
+Sim30:
+
+hdl1(1024)
+hdl2(1024)
+hdl3(1824)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7223529411764706
+Accuracy (last best prediction): 0.7301038062283737
+
+Sim31:
+
+hdl1(2024)
+hdl2(2024)
+hdl3(2024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7235986159169551
+Accuracy (last best prediction): 0.7305190311418686
+
+Sim32:
+
+hdl1(2024)
+hdl2(1024)
+hdl3(2024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7284429065743945
+Accuracy (last best prediction): 0.7284429065743945
+
+Sim33:
+
+hdl1(4024)
+hdl2(4024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7198615916955017
+Accuracy (last best prediction): 0.7249826989619377
+
+Sim34:
+
+hdl1(2024)
+hdl2(4024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7303806228373703
+Accuracy (last best prediction): 0.7325951557093425
+
+Sim35:
+
+hdl1(2024)
+hdl2(1024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7212456747404844
+Accuracy (last best prediction): 0.7237370242214533
+
+Sim36:
+
+hdl1(1024)
+hdl2(2024)
+lr = 0.0005
+l2(0.01)
+opt = Adam
+EarlyStopping(patience = 10)
+ReduceLROnPlateau(factor = 0.5)
+Accuracy: 0.7223529411764706
+Accuracy (last best prediction): 0.7262283737024221
+

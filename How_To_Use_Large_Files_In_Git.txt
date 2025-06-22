@@ -1,0 +1,12 @@
+
+How to use large files in git (larger than 100 MB):
+
+>> git lfs install
+
+>> git lfs track "*.keras"
+
+>> git add .gitattributes
+
+>> git commit -m "Track .keras files with Git LFS"
+
+>> git push --force --set-upstream origin main

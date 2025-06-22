@@ -1,0 +1,71 @@
+
+Kaggle:
+
+Models from: 
+https://www.kaggle.com/models
+
+1)
+
+"Gender Detection & Classification - Face Dataset"
+Link:
+https://www.kaggle.com/datasets/trainingdatapro/gender-detection-and-classification-image-dataset
+archive (3).zip
+(D3)
+
+2)
+
+"Faces: Age Detection from Images"
+Link:
+https://www.kaggle.com/datasets/arashnic/faces-age-detection-dataset
+[age]_[gender]_[race]_[date&time].jpg
+(0, 1): (male, female)
+archive (2).zip
+(D2)
+
+3)
+
+"facial age"
+Link:
+https://www.kaggle.com/datasets/frabbisw/facial-age
+archive (1).zip
+(D1)
+
+4)
+
+"Male and female faces dataset"
+Link:
+https://www.kaggle.com/datasets/ashwingupta3012/male-and-female-faces-dataset
+archive (4).zip
+(D4)
+
+5)
+
+"Age Detection Object Detection Dataset by FluxBlazeSU2022"
+Link:
+https://universe.roboflow.com/fluxblazesu2022/age-detection-tom31
+archive (5).zip
+(D5)
+
+6)
+
+"Gender Classification Dataset"
+Link:
+https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset
+archive (6).zip
+(D6)
+
+7)
+
+"In-the-wild Faces"
+Link:
+https://susanqq.github.io/UTKFace/
+archive (7).zip
+(D7)
+
+
+Emotion dataset:
+
+1)
+
+Link:
+https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
